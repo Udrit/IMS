@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestIMS\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\views\\productrate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\views\\productrate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\views\\customer\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\views\\customer\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\controllers\\productratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\controllers\\productratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|d:\\testims\\ims\\ims.web\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCD2924-F6A3-4624-9D62-08073353F505}|IMS.web\\IMS.web.csproj|solutionrelative:ims.web\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "IMS.web\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA/wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T12:12:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IMS.web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAiwOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:54:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "IMS.web\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "IMS.web\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:45:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Customer\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "IMS.web\\Views\\Customer\\AddEdit.cshtml",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Customer\\AddEdit.cshtml",
+              "RelativeToolTip": "IMS.web\\Views\\Customer\\AddEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:41:54.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRateController.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\ProductRateController.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Controllers\\ProductRateController.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\ProductRateController.cs",
+              "RelativeToolTip": "IMS.web\\Controllers\\ProductRateController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:40:40.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Views\\ProductRate\\Index.cshtml",
+              "RelativeDocumentMoniker": "IMS.web\\Views\\ProductRate\\Index.cshtml",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Views\\ProductRate\\Index.cshtml",
+              "RelativeToolTip": "IMS.web\\Views\\ProductRate\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:40:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "IMS.web\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "IMS.web\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAMk1AAAAAAAAAAAcwOE1AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-11T11:40:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "IMS.web\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAawD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:40:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "IMS.web\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:40:40.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IMS.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IMS.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAwNIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:40:40.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "IMS.web\\Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "IMS.web\\Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGAAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:40:40.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IMS.web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:40:40.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Program.cs",
+              "RelativeDocumentMoniker": "IMS.web\\Program.cs",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Program.cs",
+              "RelativeToolTip": "IMS.web\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:40:40.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "IMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\TestIMS\\IMS\\IMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "IMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:40:40.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
